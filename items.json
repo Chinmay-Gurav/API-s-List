@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "T.V",
+        "desc": "Experience the ultimate entertainment with our revolutionary TV technology, bringing your favorite shows and movies to life like never before.",
+        "smart": "Yes",
+        "img": "",
+        "price":50000
+    },
+    {
+        "id": 2,
+        "name": "Washing Machine",
+        "desc": "Effortlessly tackle laundry day with our advanced washing machine, offering superior cleaning performance and convenience.",
+        "smart": "NO",
+        "img": "",
+        "price":30000
+    },
+    {
+        "id": 3,
+        "name": "Smartphones",
+        "desc": "Stay connected and empowered with our cutting-edge smartphones, revolutionizing communication on the go.",
+        "smart": "Yes",
+        "img": "",
+        "price":20000
+    },
+    {
+        "id": 4,
+        "name": "Laptops",
+        "desc": "Unleash your productivity and creativity with our sleek and powerful laptops, designed for seamless performance.",
+        "smart": "Yes",
+        "img": "",
+        "price":10000
+    },
+    {
+        "id": 5,
+        "name": "Smartwatches",
+        "desc": "Take control of your health and stay connected in style with our innovative smartwatches, your ultimate fitness companion.",
+        "smart": "Yes",
+        "img": "",
+        "price":11000
+    },
+    {
+        "id": 6,
+        "name": "Gaming Consoles",
+        "desc": "Immerse yourself in unparalleled gaming experiences with our state-of-the-art gaming consoles, redefining the boundaries of entertainment",
+        "smart": "No",
+        "img": "",
+        "price":40000
+    },
+    {
+        "id": 7,
+        "name": "Wireless Earbuds",
+        "desc": "Elevate your audio experience to new heights of freedom and clarity with our premium wireless earbuds, delivering immersive sound anytime, anywhere.",
+        "smart": "Yes",
+        "img": "",
+        "price":5000
+    }
+]
